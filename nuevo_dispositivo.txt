@@ -1,0 +1,57 @@
+0000123
+pedro pablo perez pino
+la pastora
+123
+58
+212
+11
+0000456
+maria marta mendez mora
+prados del este
+456
+58
+412
+11
+0000789
+raul rafael romero ramos
+cabudare
+789
+58
+412
+11
+0000111
+ana alicia alvarez amado
+los teques
+111
+58
+414
+11
+0000222
+carlos cesar correa canto
+maracaibo
+222
+58
+414
+11
+0000333
+daniel dario duarte diaz
+merida
+333
+58
+212
+11
+0000444
+raul rafael romero ramos
+cabudare
+789
+58
+416
+11
+0000666
+raul rafael romero ramos
+valencia
+666
+58
+412
+111
+
